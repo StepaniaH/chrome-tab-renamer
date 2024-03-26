@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Tab Renamer",
+  "version": "1.0",
+  "description": "Renames the tab title.",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
